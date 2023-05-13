@@ -61,7 +61,7 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
 
 ## Authors
 
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
+* **Rishabh Bhatt (ldt)** - *Initial work* - [Rishabh6395](https://github.com/Rishabh6395)
 
 
 ### License
